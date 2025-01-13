@@ -39,4 +39,4 @@ keras
 Python
 
 # owner:
-[Kakumanu-Harshitha](https://Kakumanu-Harshitha.com)
+[Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
