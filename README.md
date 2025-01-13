@@ -25,4 +25,18 @@ Use Case: Predict policyholders likely to discontinue their policies.
 Impact: Helps insurance companies design targeted renewal campaigns, offer loyalty rewards, or introduce value-added services.
 
 And many more....
+# References:
+Reference from kaggle: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
+# Requirements:
+Pandas
+Numpy
+Matplotlib 
+tensorflow 
+keras
+
+# programming languages:
+Python
+
+# owner:
+[Kakumanu-Harshitha](https://Kakumanu-Harshitha.com)
